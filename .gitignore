@@ -1,0 +1,12 @@
+# Ignore model files
+ models/model.pkl
+
+# Ignore dataset folder
+# data/
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+# .DS_Store
